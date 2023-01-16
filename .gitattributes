@@ -1,1 +1,3 @@
 *.py linguist-language=python
+notebooks/** linguist-vendored
+
